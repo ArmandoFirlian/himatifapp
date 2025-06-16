@@ -1,0 +1,7 @@
+
+<resources>
+    <color name="primary">#1A237E</color>
+    <color name="primaryLight">#5C6BC0</color>
+    <color name="primaryDark">#0D133C</color>
+    <color name="white">#FFFFFF</color>
+</resources>
